@@ -17,3 +17,8 @@ https://classroom.github.com/a/ieWBEhJb
 ### Les algorithmes de plus courts chemins
 
   * Démonstration en ligne de [Bellman-Ford](https://www-m9.ma.tum.de/graph-algorithms/spp-bellman-ford/index_en.html)
+
+### IP CIDR
+
+  *  [Calcul de masques réseau](http://www.subnet-calculator.com/cidr.php)
+  
